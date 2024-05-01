@@ -1,5 +1,7 @@
 # Virtual CERSE Meeting
 
+Register here: https://ed-ac-uk.zoom.us/meeting/register/tZYucOupqT8jHtG7KHJUKrJhRmedlCuuahCI
+
 ## Content
 * [Purpose](#purpose)
 * [Venue, Date, Time](#venue-date-time)
