@@ -30,12 +30,15 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 ## Schedule
 
-This is a provisional timetable. 
+This is a provisional timetable.
 
 |Time  | Activity      |
 |------| ------|
 |14:00| Welcome |
-|14:05| Four short talks |
-|15:05| Networking |
+|14:05| Lyndsey Ballantyne (RSE Community Manager - SSI) |
+|14:20| Alan O'Callaghan (RSE - Institute of Genetics and Cancer) |
+|14:35| Mike Wallis (Support Team Lead - IT Infrastructure)|
+|14:50| |
+|15:05| Discussion and networking |
 
 If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
