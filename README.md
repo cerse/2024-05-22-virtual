@@ -37,10 +37,10 @@ This is a provisional timetable.
 |Time  | Activity      |
 |------| ------|
 |14:00| Welcome |
-|14:05| Lyndsey Ballantyne (RSE Community Manager - SSI) |
-|14:20| Alan O'Callaghan (RSE - Institute of Genetics and Cancer) |
-|14:35| Mike Wallis (Support Team Lead - IT Infrastructure)|
-|14:50| |
+|14:05| Kasia Banas (Usher Institute & College of Medicine and Veterinary Medicine) |
+|14:20| Lyndsey Ballantyne (RSE Community Manager - SSI) |
+|14:35| Alan O'Callaghan (RSE - Institute of Genetics and Cancer) |
+|14:50| Mike Wallis (Support Team Lead - IT Infrastructure) |
 |15:05| Discussion and networking |
 
 If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
