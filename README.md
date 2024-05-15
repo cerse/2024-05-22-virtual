@@ -34,13 +34,13 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 This is a provisional timetable.
 
-|Time  | Activity      |
-|------| ------|
+|Time  | Speaker      | Title |
+|------| ------| ------|
 |14:00| Welcome |
-|14:10| Kasia Banas (Usher Institute & College of Medicine and Veterinary Medicine) |
-|14:25| Lyndsey Ballantyne (RSE Community Manager - SSI) |
-|14:40| Léo Leplat  (RSE - Institute of Genetics and Cancer) |
-|14:55| Mike Wallis (Support Team Lead - IT Infrastructure) |
-|15:10| Discussion and networking |
+|14:10| Kasia Banas (Usher Institute & College of Medicine and Veterinary Medicine) | |
+|14:25| Lyndsey Ballantyne (RSE Community Manager - SSI) | Society of RSE and Hidden REF |
+|14:40| Léo Leplat  (RSE - Institute of Genetics and Cancer) | |
+|14:55| Mike Wallis (Support Team Lead - IT Infrastructure) | | 
+|15:10| Discussion and networking | | 
 
 If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
