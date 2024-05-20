@@ -37,10 +37,10 @@ This is a provisional timetable.
 |Time  | Speaker      | Title |
 |------| ------| ------|
 |14:00| Welcome |
-|14:10| Kasia Banas (Usher Institute & College of Medicine and Veterinary Medicine) | |
+|14:10| Kasia Banas (Usher Institute & College of Medicine and Veterinary Medicine) | The joys of pair programming |
 |14:25| Lyndsey Ballantyne (RSE Community Manager - SSI) | Society of RSE and Hidden REF |
 |14:40| Léo Leplat  (RSE - Institute of Genetics and Cancer) | QuPath: Open Software for Bioimage Analysis |
-|14:55| Mike Wallis (Support Team Lead - IT Infrastructure) | | 
+|14:55| Mike Wallis (Support Team Lead - IT Infrastructure) | Taking advantage of Eddie: best practice on HPC | 
 |15:10| Discussion and networking | | 
 
 If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
